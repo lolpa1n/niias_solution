@@ -15,3 +15,5 @@ pip install -r requirements.txt
 Модели необходимо загрузить с google-drive в папку models
 https://drive.google.com/drive/folders/1BYoDgAcN52RTficHY5GQMW5N5MX4L-aJ?usp=sharing
 
+### Ссылка на презентацию https://docs.google.com/presentation/d/1YHGxAtbr3Lrbidk6qJ8jtRC_Kvppf9ZE6tqvuIlxPqU/edit?usp=sharing
+
